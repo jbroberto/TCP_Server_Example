@@ -19,6 +19,8 @@ def find_service_name():
 def get_md5(msg):
     """
     Exibe o hash de uma mensagem de texto
+
+
     """
     #h = hashlib.md5()
     #h.update(msg)
